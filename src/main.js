@@ -1,6 +1,6 @@
 console.log("hello world");
 
-let name = "foo";
+let name = "world"
 
 function printName(name) {
     console.log("Hello " + name);
@@ -8,3 +8,4 @@ function printName(name) {
 
 
 printName(name);
+
